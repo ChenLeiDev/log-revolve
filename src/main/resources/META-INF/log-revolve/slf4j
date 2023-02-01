@@ -1,0 +1,4 @@
+log.info.isInfoEnabled
+log.debug.isDebugEnabled
+log.warn.isWarnEnabled
+log.trace.isTraceEnabled
